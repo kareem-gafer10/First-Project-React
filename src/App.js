@@ -1,24 +1,12 @@
-import React, { Component } from 'react'
-import Home from './Home';
+import React, { Component } from "react";
+import Home from "./Home";
 
- class App extends Component {
-
-state ={
-
-
-}
-
-
+export default class App extends Component {
   render() {
     return (
       <div>
-        <h2>App Component</h2>
-      <button>Click</button>
-      <hr/>
-      <Home/>
+        <Home />
       </div>
-    )
+    );
   }
 }
-
-export default App;
