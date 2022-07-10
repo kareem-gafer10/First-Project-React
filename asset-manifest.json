@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/kareem-gafer10/First-Project-React/static/css/main.00ab2585.css",
+    "main.js": "/kareem-gafer10/First-Project-React/static/js/main.175b3d14.js",
+    "static/media/fa-solid-900.ttf": "/kareem-gafer10/First-Project-React/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
+    "static/media/fa-brands-400.ttf": "/kareem-gafer10/First-Project-React/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
+    "static/media/fa-solid-900.woff2": "/kareem-gafer10/First-Project-React/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
+    "static/media/fa-brands-400.woff2": "/kareem-gafer10/First-Project-React/static/media/fa-brands-400.ebb7a127d2d8ee6f1832.woff2",
+    "static/media/fa-regular-400.ttf": "/kareem-gafer10/First-Project-React/static/media/fa-regular-400.0d03b1bbd1d62c1e1284.ttf",
+    "static/media/cabin.png": "/kareem-gafer10/First-Project-React/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/kareem-gafer10/First-Project-React/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/game.png": "/kareem-gafer10/First-Project-React/static/media/game.a940b57aa7bab2eacc52.png",
+    "static/media/submarine.png": "/kareem-gafer10/First-Project-React/static/media/submarine.48c9704ca7f8ce901038.png",
+    "static/media/fa-regular-400.woff2": "/kareem-gafer10/First-Project-React/static/media/fa-regular-400.0caf4c6cf244a90efcc5.woff2",
+    "static/media/safe.png": "/kareem-gafer10/First-Project-React/static/media/safe.01792c0bdc342bf4bf9c.png",
+    "static/media/cake.png": "/kareem-gafer10/First-Project-React/static/media/cake.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/kareem-gafer10/First-Project-React/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/kareem-gafer10/First-Project-React/static/media/fa-v4compatibility.4baccb548138840fa33a.ttf",
+    "static/media/fa-v4compatibility.woff2": "/kareem-gafer10/First-Project-React/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
+    "index.html": "/kareem-gafer10/First-Project-React/index.html",
+    "main.00ab2585.css.map": "/kareem-gafer10/First-Project-React/static/css/main.00ab2585.css.map",
+    "main.175b3d14.js.map": "/kareem-gafer10/First-Project-React/static/js/main.175b3d14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00ab2585.css",
+    "static/js/main.175b3d14.js"
+  ]
+}
