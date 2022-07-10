@@ -14,8 +14,8 @@ class App extends Component {
       <>
         <Navbar />
         <Routes>
-        <Route path="/" element={<Header />} />
-        <Route path="home" element={<Header />} />
+          <Route path="/" element={<Header />} />
+          <Route path="home" element={<Header />} />
           <Route path="portfolio" element={<Portfolio />} />
           <Route path="about" element={<About />} />
           <Route path="contact" element={<Contact />} />
